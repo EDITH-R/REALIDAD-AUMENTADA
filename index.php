@@ -9,8 +9,8 @@
   <button class="mainmenubtn">OBJETOS 3D</button>
     <div class="dropdown-child">
         <a href="https://objetos-3d.herokuapp.com/recamara.php">Recámara</a>
-        <a href="ttps://objetos-3d.herokuapp.com/sillon.html">Sillón</a>
-        <a href="ttps://objetos-3d.herokuapp.com/cama.html">Cama</a>
+        <a href="ttps://objetos-3d.herokuapp.com/sillon.php">Sillón</a>
+        <a href="ttps://objetos-3d.herokuapp.com/cama.php">Cama</a>
     </div>
 </div>
 </body>
