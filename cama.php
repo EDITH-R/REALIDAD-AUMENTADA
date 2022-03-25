@@ -5,7 +5,7 @@
     <script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
   </head>   
 
-  <body width="25px" height="25px">
+  <body>
     <a-scene embedded arjs>
       <a-entity scale=".2 .2 .2" > 
         <a-entity gltf-model="https://objetos-3d.herokuapp.com/cama.glb" scale="2 2 2" crossOrigin="anonymous" >
