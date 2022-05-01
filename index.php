@@ -8,10 +8,9 @@
 <div class="dropdown">
   <button class="mainmenubtn">OBJETOS 3D</button>
     <div class="dropdown-child">
-        <a href="https://objetos-3d.herokuapp.com/recamara.php">Recámara</a>
+        <a href="https://objetos-3d.herokuapp.com/mesa.php">Mesa</a>
+        <a href="https://objetos-3d.herokuapp.com/silla.php">Silla</a>
         <a href="https://objetos-3d.herokuapp.com/sillon.php">Sillón</a>
-        <a href="https://objetos-3d.herokuapp.com/cama.php">Cama</a>
-        <a href="https://objetos-3d.herokuapp.com/animado.php">Objeto Animado</a>
     </div>
 </div>
 </body>

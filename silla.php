@@ -8,7 +8,7 @@
   <body>
     <a-scene embedded arjs>
       <a-entity scale=".02 .02 .02" > 
-        <a-entity gltf-model="https://objetos-3d.herokuapp.com/cama.glb" scale="2 2 2" crossOrigin="anonymous" >
+        <a-entity gltf-model="https://objetos-3d.herokuapp.com/silla.glb" scale="2 2 2" crossOrigin="anonymous" >
       </a-entity>
         <a-marker-camera preset='hiro'></a-marker-camera>
     </a-scene>
